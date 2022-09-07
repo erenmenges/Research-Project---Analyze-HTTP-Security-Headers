@@ -1,0 +1,16 @@
+domain,content-security-policy,contribute,cookies,cross-origin-resource-sharing,public-key-pinning,redirection,referrer-policy,strict-transport-security,subresource-integrity,x-content-type-options,x-frame-options,x-xss-protection,known-redirection
+ahidta.gov,0,1,1,1,1,1,1,1,0,1,1,0
+alabamasoilandwater.gov,0,1,1,1,1,1,1,1,0,0,0,0
+emscompact.gov,0,1,1,1,1,1,1,0,0,0,0,0
+fmdiversion.gov,0,1,1,1,1,1,1,0,1,0,0,0
+gulfcoastwaterauthoritytx.gov,0,1,1,1,1,1,1,1,0,1,1,0
+infuse-mn.gov,0,0,1,1,1,1,1,1,1,0,1,0
+lrsa-nj.gov,0,1,1,1,1,1,1,0,0,0,1,0
+mtc.gov,0,0,1,1,1,0,1,0,0,0,1,0
+panynj.gov,0,0,1,1,1,0,1,0,1,1,1,0
+spaceflorida.gov,0,0,1,1,1,1,1,0,0,0,0,0
+srbc.gov,0,1,1,1,1,1,1,0,0,0,0,0
+trpa.gov,0,1,1,1,1,1,1,1,0,0,0,0
+ucr.gov,0,1,1,1,1,1,1,1,1,1,1,0
+wmataoig.gov,0,1,1,1,1,1,1,1,0,1,1,1
+wmsc.gov,0,1,1,1,1,1,1,0,0,0,0,0
